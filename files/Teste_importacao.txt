@@ -1,0 +1,5 @@
+Importação de dados
+
+Um importador é uma solução em aplicativo que transpõe informação de uma fonte de dados para outra, que pode ser completamente diferente. Pode ser usado para migrar dados de uma tecnologia mais antiga para uma mais nova, entre outros.
+A atividade proposta é a criação de um importador de dados que seja capaz de transpor os dados das fontes anedóticas em anexo 'Source_1' (.dbf) e 'Source_2'(planilha xls) para o banco 'Destino.fdb'(Firebird 2.1). 
+
